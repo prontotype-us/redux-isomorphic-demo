@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "history": "^4.6.3",
+    "immutable": "^3.8.1",
+    "kefir": "^3.7.2",
+    "kefir-bus": "^2.2.1",
+    "kefir-fetch": "^0.1.13",
+    "polar": "^0.3.1",
+    "preact": "^8.1.0",
+    "preact-render-to-string": "^3.6.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "redux": "^3.7.1"
+  }
+}
